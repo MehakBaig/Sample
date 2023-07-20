@@ -12,8 +12,6 @@ What is covered:
 - How to create the first instance of a component along with its story?
 - How do various prop values affect the component’s appearance and functionality?
 
-
-
 -> Follow the tutorial [here](https://snipcart.com/blog/storybook-react-tutorial-example).
 
 -> Try the demo [here](https://nextjs-storybook-example-4nh7fvdd0-m0nica.vercel.app/).
@@ -48,3 +46,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Sample
