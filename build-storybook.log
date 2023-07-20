@@ -1,0 +1,17 @@
+info @storybook/react v6.5.16
+info 
+info => Cleaning outputDir: /var/folders/5x/zrltpx695qj7sgcs57zwkmrr0000gn/T/chromatic--96917-MHtmvs4vkwXz
+ERR! NestedError: Cannot copy `/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/public/favicon.ico`: the file doesn't exist
+ERR!     at /Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/cpy/index.js:96:10
+ERR!     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ERR!     at async buildStaticStandalone (/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/dist/cjs/build-static.js:104:3)
+ERR!     at async buildStatic (/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/dist/cjs/build-static.js:250:5)
+ERR!  NestedError: Cannot copy `/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/public/favicon.ico`: the file doesn't exist
+ERR!     at /Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/cpy/index.js:96:10
+ERR!     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ERR!     at async buildStaticStandalone (/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/dist/cjs/build-static.js:104:3)
+ERR!     at async buildStatic (/Users/mebaig/Library/CloudStorage/OneDrive-Deloitte(O365D)/Documents/nextjs-storybook-example/node_modules/@storybook/core-server/dist/cjs/build-static.js:250:5) {
+ERR!   nested: undefined,
+ERR!   name: 'CpyError'
+ERR! }
+info => Loading presets

@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start --openssl-legacy-provider",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -21,6 +21,8 @@
     "@storybook/addon-essentials": "^6.3.4",
     "@storybook/addon-links": "^6.3.4",
     "@storybook/react": "^6.3.4",
-    "babel-loader": "^8.2.2"
+    "babel-loader": "^8.2.2",
+    "chromatic": "^6.19.9",
+    "html-webpack-plugin": "^5.5.3"
   }
 }
